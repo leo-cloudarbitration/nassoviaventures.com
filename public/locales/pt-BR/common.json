@@ -1,8 +1,8 @@
 {
-  "company_name": "AV1V Media Holding",
+  "company_name": "FHMC Media Holding",
 
   "seo": {
-    "title": "AV1V Media Holding",
+    "title": "FHMC Media Holding",
     "description": "Marketing com Mídia Programática. Tecnologia avançada e expertise estratégica"
   },
 
@@ -65,8 +65,8 @@
   ],
 
   "media": {
-    "title": "AV1V Media<strong class='block'>on the road</strong>",
-    "description": "Veja o que estão falando sobre a AV1V na internet e no mundo.",
+    "title": "FHMC Media<strong class='block'>on the road</strong>",
+    "description": "Veja o que estão falando sobre a FHMC na internet e no mundo.",
     "articles": [
       {
         "title": "Fusce Inceptos Ornare Elit Egestas",
@@ -127,7 +127,7 @@
     "contacts": {
       "email": {
         "label": "E-mail",
-        "value": "falecom@av1v.com"
+        "value": "falecom@FHMC.com"
       },
 
       "phone": {
@@ -138,9 +138,9 @@
   },
 
   "social": {
-    "facebook": "https://facebook.com/av1v",
-    "instagram": "https://instagram.com/av1vmedia",
-    "linkedin": "https://br.linkedin.com/company/av1v"
+    "facebook": "https://facebook.com/FHMC",
+    "instagram": "https://instagram.com/FHMCmedia",
+    "linkedin": "https://br.linkedin.com/company/FHMC"
   },
 
   "form": {
@@ -151,7 +151,7 @@
     "send_message": "Enviar mensagem",
 
     "or_send_mail": "Ou envie um e-mail:",
-    "contact_email": "falecom@av1v.com",
+    "contact_email": "falecom@FHMC.com",
 
     "fields": {
       "name": {

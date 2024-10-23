@@ -41,7 +41,7 @@ function Footer() {
               src={logoWhite}
               width={88}
               height={38}
-              alt="AV1V Media Holding"
+              alt="FHMC Media Holding"
             />
             <p className="m-0 text-white">
               {t('company_name')}

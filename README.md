@@ -1,8 +1,8 @@
-![Cover](https://github.com/itbruno/site-av1v/assets/3206543/8c747ea5-45ef-4eba-9408-6fe8941593c2)
+![Cover](https://github.com/itbruno/site-FHMC/assets/3206543/8c747ea5-45ef-4eba-9408-6fe8941593c2)
 
-## AV1V Media Holding
+## FHMC Media Holding
 
-AV1V website was created with NextJS
+FHMC website was created with NextJS
 
 ## Requirements
 
