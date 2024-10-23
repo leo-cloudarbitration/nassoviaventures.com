@@ -1,0 +1,186 @@
+{
+  "company_name": "AV1V Media Holding",
+
+  "seo": {
+    "title": "AV1V Media Holding",
+    "description": "Marketing com Mídia Programática. Tecnologia avançada e expertise estratégica"
+  },
+
+  "contact_us": "Contact us",
+  "send_message": "Send message",
+  "lets_talk": "Let's talk",
+
+  "nav": {
+    "about": "About",
+    "media": "Media"
+  },
+
+  "hero": {
+    "title": "Programmatic Marketing and Media Strategies",
+    "highlight": "Maximizing conversions and reaching precise audiences through our methodology."
+  },
+
+  "about": {
+    "title": "Advanced technology<br class='max-md:hide' /> and strategic expertise",
+    "description": "<p>We are a company focused on Programmatic Media solutions, offering exceptional results.</p><p>We combine advanced technology, intelligent data and strategic expertise to maximize the performance of your digital advertising campaigns. our customers to reach their target audience accurately and efficiently, optimizing their investments in online advertising.</p>",
+    "highlight_card": "from people helped"
+  },
+
+  "founders": {
+    "title": "Created by people who<br class='max-md:hidden' /> understand the subject"
+  },
+  
+  "metrics": {
+    "title": "The numbers<br /><strong>speak for themselves</strong>",
+    "description": "Discover the tangible impact of our strategies with data-driven insights and measurable results.",
+
+    "date": [
+      {
+        "icon": "globe",
+        "primary": "+6 countries",
+        "secondary": "achieved"
+      },
+
+      {
+        "icon": "chartlineup",
+        "primary": "+2 million",
+        "secondary": "monthly hits"
+      },
+     
+      {
+        "icon": "usersthree",
+        "primary": "+5 million",
+        "secondary": "people helped"
+      }
+    ]
+  },
+
+  "text_rotator": [
+    "Brazil",
+    "Argentina",
+    "Mexico",
+    "USA",
+    "Colombia",
+    "India"
+  ],
+
+  "media": {
+    "title": "AV1V Media<strong class='block'>on the road</strong>",
+    "description": "See what people are saying about the AV1V on the internet and around the world.",
+    "articles": [
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      }
+    ]
+  },
+  
+  "segments": {
+    "title": "We operate in <strong class='block'>various segments</strong>",
+    "description": "Our presence spans a wide range of sectors, offering solutions tailored to the specific needs of each market.",
+    "items": [
+      "Financial market",
+      "Education",
+      "Fashion and accessories",
+      "Fitness",
+      "Food",
+      "pets"
+    ],
+    "and_more": "and much more...",
+    "highlight": {
+      "primary": "15",
+      "secondary": "Segments worked on"
+    }
+  },
+
+  "footer": {
+    "conversion": {
+      "title": "Got a new idea?",
+      "description": "We have the expertise and strategies to get it off the ground."
+    },
+    "copyright": "All rights reserved",
+    "contacts": {
+      "email": {
+        "label": "Email",
+        "value": "contact@av1v.com"
+      },
+
+      "phone": {
+        "label": "Phone",
+        "value": "(99) 98798-5432"
+      }
+    }
+  },
+
+  "Social": {
+    "facebook": "https://facebook.com/av1v",
+    "instagram": "https://instagram.com/av1vmedia",
+    "linkedin": "https://br.linkedin.com/company/av1v"
+  },
+
+  "form": {
+    "title": "Shall we talk?",
+    "description": "Fill out the form below to get in touch with us.",
+    "success_message": "Message sent successfully!",
+    "error_message": "Something went wrong, try again!",
+    "send_message": "Send message",
+
+    "or_send_mail": "Or send an email:",
+    "contact_email": "contact@av1v.com",
+
+    "fields": {
+      "name": {
+        "label": "What is your name?",
+        "placeholder": "Your full name",
+        "required_message": "Enter your full name here"
+      },
+
+      "email": {
+        "label": "What is your email?",
+        "placeholder": "yourname@email.com",
+        "required_message": "Please enter a valid email here"
+      },
+
+      "message": {
+        "label": "Message",
+        "placeholder": "Write here what you need...",
+        "required_message": "We need you to tell us what you need."
+      }
+    },
+
+    "highlight_primary": {
+      "pre": "+5 million",
+      "post": "from people helped"
+    },
+
+    "highlight_secondary": {
+      "pre": "+2 million",
+      "post": "of monthly hits"
+    }
+  }
+}

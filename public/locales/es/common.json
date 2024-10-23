@@ -1,0 +1,186 @@
+{
+  "company_name": "AV1V Media Holding",
+
+  "seo": {
+    "title": "AV1V Media Holding",
+    "description": "Marketing com Mídia Programática. Tecnologia avançada e expertise estratégica"
+  },
+
+  "contact_us": "Fale conosco",
+  "send_message": "Enviar message",
+  "lets_talk": "Vamos conversar",
+
+  "nav": {
+    "about": "Sobre",
+    "media": "Prensa"
+  },
+
+  "hero": {
+    "title": "Estrategias de Marketing y Medios Programáticos",
+    "highlight": "Maximizando conversiones y llegando a audiencias precisas a través de nuestra metodología."
+  },
+
+  "about": {
+    "title": "Tecnología avanzada<br class='max-md:hide' /> y experiencia estratégica",
+    "description": "<p>Somos una empresa enfocada en soluciones de medios programáticos, que ofrece resultados excepcionales.</p><p>Combinamos tecnología avanzada, datos inteligentes y experiencia estratégica para maximizar el rendimiento de sus campañas de publicidad digital. clientes para llegar a su público objetivo de forma precisa y eficiente, optimizando sus inversiones en publicidad online.</p>",
+    "highlight_card": "de personas a las que ayudó"
+  },
+
+  "founders": {
+    "title": "Creado por personas que<br class='max-md:hidden' /> entienden el tema"
+  },
+
+  "metrics": {
+    "title": "Los números<br /><strong>hablan por sí mismos</strong>",
+    "description": "Descubre el impacto tangible de nuestras estrategias con percepciones basadas en datos concretos y resultados medibles.",
+
+    "data": [
+      {
+        "icon": "globe",
+        "primary": "+6 países",
+        "sedcondary": "logrado"
+      },
+
+      {
+        "icon": "chartlineup",
+        "primary": "+2 millones",
+        "secondary": "éxitos mensuales"
+      },
+     
+      {
+        "icon": "usersthree",
+        "primary": "+5 millones",
+        "secondary": "la gente ayudó"
+      }
+    ]
+  },
+
+  "text_rotator": [
+    "Brasil",
+    "Argentina",
+    "México",
+    "USA",
+    "Colombia",
+    "India"
+  ],
+
+  "media": {
+    "title": "AV1V Media<strong class='block'>on the road</strong>",
+    "description": "Vea lo que dice la gente sobre el AV1V en Internet y en todo el mundo.",
+    "articles": [
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      }
+    ]
+  },
+
+  "segments": {
+    "title": "Operamos en <strong class='block'>varios segmentos</strong>",
+    "description": "Nuestra presencia abarca una amplia variedad de sectores, ofreciendo soluciones adaptadas a las necesidades específicas de cada mercado.",
+    "items": [
+      "Mercado financiero",
+      "Educación",
+      "Moda y complementos",
+      "Aptitud física",
+      "Alimentación",
+      "mascotas"
+    ],
+    "and_more": "y mucho más...",
+    "highlight": {
+      "primary": "15",
+      "secondary": "Segmentos trabajados"
+    }
+  },
+
+  "footer": {
+    "conversion": {
+      "title": "¿Tienes una nueva idea?",
+      "description": "Tenemos la experiencia y las estrategias para hacerlo despegar"
+    },
+    "copyright": "Todos los derechos reservados",
+    "contacts": {
+      "email": {
+        "label": "Email",
+        "value": "contacto@av1v.com"
+      },
+
+      "phone": {
+        "label": "Teléfono",
+        "value": "(99) 98798-5432"
+      }
+    }
+  },
+
+  "social": {
+    "facebook": "https://facebook.com/av1v",
+    "instagram": "https://instagram.com/av1vmedia",
+    "linkedin": "https://br.linkedin.com/company/av1v"
+  },
+
+  "form": {
+    "title": "¿Hablamos?",
+    "description": "Rellena el siguiente formulario para ponerte en contacto con nosotros.",
+    "success_message": "¡Mensaje enviado con éxito!",
+    "error_message": "¡Algo salió mal, inténtalo de nuevo!",
+    "send_message": "Enviar mensaje",
+
+    "or_send_mail": "O enviar un correo electrónico:",
+    "contact_email": "contacto@av1v.com",
+
+    "fields": {
+      "name": {
+        "label": "¿Cuál es tu nombre?",
+        "placeholder": "Tu nombre completo",
+        "required_message": "Ingresa tu nombre completo aquí"
+      },
+
+      "correo_electrónico": {
+        "label": "¿Cuál es tu correo electrónico?",
+        "placeholder": "tunombre@email.com",
+        "required_message": "Ingrese un correo electrónico válido aquí"
+      },
+
+      "mensaje": {
+        "etiqueta": "Mensaje",
+        "placeholder": "Escribe aquí lo que necesitas...",
+        "required_message": "Necesitamos que nos digas lo que necesitas"
+      }
+    },
+
+    "highlight_primary": {
+      "pre": "+5 millones",
+      "post": "de personas ayudadas"
+    },
+
+    "highlight_secundario": {
+      "pre": "+2 millones",
+      "post": "de hits mensuales"
+    }
+  }
+}
