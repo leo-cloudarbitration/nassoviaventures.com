@@ -11,7 +11,7 @@ export default async function sendEmail(req: NextApiRequest, res: NextApiRespons
     try {
       const data = await resend.emails.send({
         from: 'onboarding@resend.dev',
-        to: ['clemente@fhmcmedia.com', 'forneas@fhmcmedia.com'],
+        to: ['matheusclementeg@gmail.com', 'fernando.forneas@gmail.com'],
         subject: 'Contact from website',
         react: EmailTemplate({ name: name, email: email, message: message }),
       });
