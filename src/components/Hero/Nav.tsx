@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import logo from '@public/assets/logo.svg';
+import logoWhite from '@public/assets/logo-white.svg';
 
 import { Chats } from '@phosphor-icons/react';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
@@ -15,7 +16,7 @@ function Nav() {
   return (
     <>
       <div className="flex justify-between">
-        <Image src={logo} width={100} height={42} alt={t('seo.title')} />
+        <Image src={logoWhite} width={100} height={42} alt={t('seo.title')} />
 
         <nav className="flex items-center">
           <div className="flex items-center gap-4">

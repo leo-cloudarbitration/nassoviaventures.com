@@ -16,7 +16,7 @@ function Founders() {
     {
       image: matheusClemente,
       name: 'Matheus Clemente',
-      role: 'CRO',
+      role: 'COO',
     },
   ];
   return (
