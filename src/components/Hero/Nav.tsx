@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import logo from '@public/assets/logo.svg';
-import logoWhite from '@public/assets/logo-white.svg';
+import logoWhite from '@public/assets/logo-fhmc-sem-fundo.svg';
 
 import { Chats } from '@phosphor-icons/react';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';

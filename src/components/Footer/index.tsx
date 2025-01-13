@@ -3,7 +3,7 @@ import { At, Chats, DeviceMobile } from '@phosphor-icons/react';
 import { useTranslation } from 'next-i18next';
 import { FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
-import logoWhite from '@public/assets/logo-white.svg';
+import logoWhite from '@public/assets/logo-fhmc-sem-fundo.svg';
 import Image from 'next/image';
 import { useContext } from 'react';
 import { FormContext } from '@/contexts/FormContext';
