@@ -1,186 +1,155 @@
 {
-  "company_name": "FHMC Media Holding",
+  "company_name": "Carrara Media LTDA",
+  "description": "Carrara Media LTDA",
+  "title": "Carrara Media LTDA",
 
   "seo": {
-    "title": "FHMC Media Holding",
-    "description": "Marketing com Mídia Programática. Tecnologia avançada e expertise estratégica"
+    "title": "Carrara Media LTDA",
+    "description": "Tecnología avanzada de Medios Programáticos"
   },
 
-  "contact_us": "Fale conosco",
-  "send_message": "Enviar message",
-  "lets_talk": "Vamos conversar",
+  "contact_us": "Contáctanos",
+  "send_message": "Enviar mensaje",
+  "lets_talk": "Hablemos",
 
   "nav": {
-    "about": "Sobre",
-    "media": "Prensa"
+    "about": "Sobre nosotros"
   },
 
   "hero": {
-    "title": "Estrategias de Marketing y Medios Programáticos",
-    "highlight": "Maximizando conversiones y llegando a audiencias precisas a través de nuestra metodología."
+    "title": "Medios Programáticos & Estrategia de Marketing",
+    "highlight": "Optimizamos conversiones y conectamos marcas con el público adecuado con precisión."
   },
 
   "about": {
-    "title": "Tecnología avanzada<br class='max-md:hide' /> y experiencia estratégica",
-    "description": "<p>Somos una empresa enfocada en soluciones de medios programáticos, que ofrece resultados excepcionales.</p><p>Combinamos tecnología avanzada, datos inteligentes y experiencia estratégica para maximizar el rendimiento de sus campañas de publicidad digital. clientes para llegar a su público objetivo de forma precisa y eficiente, optimizando sus inversiones en publicidad online.</p>",
-    "highlight_card": "de personas a las que ayudó"
+    "title": "Tecnología innovadora<br class='max-md:hidden' /> y experiencia estratégica",
+    "description": "<p>Especializados en Medios Programáticos, entregamos resultados excepcionales.</p><p>Combinamos tecnología de vanguardia, datos estratégicos y conocimiento especializado para potenciar el rendimiento de tus campañas digitales. Garantizamos que tu marca alcance al público adecuado, maximizando el retorno de la inversión en publicidad online.</p>",
+    "highlight_card": "millones de personas impactadas"
   },
 
   "founders": {
-    "title": "Creado por personas que<br class='max-md:hidden' /> entienden el tema"
+    "title": "Fundado por especialistas<br class='max-md:hidden' /> en el sector"
   },
 
   "metrics": {
-    "title": "Los números<br /><strong>hablan por sí mismos</strong>",
-    "description": "Descubre el impacto tangible de nuestras estrategias con percepciones basadas en datos concretos y resultados medibles.",
+    "title": "Nuestros resultados<br /><strong>hablan por sí solos</strong>",
+    "description": "Comprobamos nuestro impacto a través de datos concretos y métricas de éxito.",
 
     "data": [
       {
         "icon": "globe",
-        "primary": "+6 países",
-        "sedcondary": "logrado"
+        "primary": "+40 países",
+        "secondary": "alcanzados"
       },
-
       {
         "icon": "chartlineup",
-        "primary": "+2 millones",
-        "secondary": "éxitos mensuales"
+        "primary": "+5 millones",
+        "secondary": "accesos mensuales"
       },
-     
       {
         "icon": "usersthree",
-        "primary": "+5 millones",
-        "secondary": "la gente ayudó"
+        "primary": "+15 millones",
+        "secondary": "personas ayudadas"
       }
     ]
   },
 
   "text_rotator": [
-    "Brasil",
-    "Argentina",
-    "México",
-    "USA",
-    "Colombia",
-    "India"
+    "Norteamérica",
+    "Europa",
+    "Centroamérica",
+    "Sudamérica",
+    "Asia",
+    "África",
+    "Oceanía"
   ],
 
   "media": {
-    "title": "FHMC Media<strong class='block'>on the road</strong>",
-    "description": "Vea lo que dice la gente sobre el FHMC en Internet y en todo el mundo.",
+    "title": "Carrara Media<strong class='block'> en el mundo</strong>",
+    "description": "Descubre lo que dicen sobre CA en internet y el mundo.",
     "articles": [
       {
-        "title": "Fusce Inceptos Ornare Elit Egestas",
-        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
-        "url": "https://google.com"
-      },
-
-      {
-        "title": "Fusce Inceptos Ornare Elit Egestas",
-        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
-        "url": "https://google.com"
-      },
-
-      {
-        "title": "Fusce Inceptos Ornare Elit Egestas",
-        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
-        "url": "https://google.com"
-      },
-
-      {
-        "title": "Fusce Inceptos Ornare Elit Egestas",
-        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
-        "url": "https://google.com"
-      },
-
-      {
-        "title": "Fusce Inceptos Ornare Elit Egestas",
-        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "title": "Tendencias en Medios Programáticos",
+        "description": "Cómo optimizar campañas digitales y aumentar conversiones.",
         "url": "https://google.com"
       }
     ]
   },
 
   "segments": {
-    "title": "Operamos en <strong class='block'>varios segmentos</strong>",
-    "description": "Nuestra presencia abarca una amplia variedad de sectores, ofreciendo soluciones adaptadas a las necesidades específicas de cada mercado.",
+    "title": "Operamos en <strong class='block'>múltiples sectores</strong>",
+    "description": "Nuestra presencia abarca una amplia gama de industrias, ofreciendo soluciones adaptadas a cada mercado.",
     "items": [
-      "Mercado financiero",
+      "Mercado Financiero",
       "Educación",
-      "Moda y complementos",
-      "Aptitud física",
-      "Alimentación",
-      "mascotas"
+      "Moda y accesorios",
+      "Tecnología",
+      "Retail",
+      "Servicios"
     ],
     "and_more": "y mucho más...",
     "highlight": {
       "primary": "15",
-      "secondary": "Segmentos trabajados"
+      "secondary": "sectores trabajados"
     }
   },
 
   "footer": {
     "conversion": {
       "title": "¿Tienes una nueva idea?",
-      "description": "Tenemos la experiencia y las estrategias para hacerlo despegar"
+      "description": "Tenemos la experiencia y las estrategias para hacerla realidad."
     },
     "copyright": "Todos los derechos reservados",
     "contacts": {
       "email": {
-        "label": "Email",
-        "value": "contacto@FHMC.com"
+        "label": "E-mail",
+        "value": "info@carraramedia.com.br"
       },
-
       "phone": {
         "label": "Teléfono",
-        "value": "(99) 98798-5432"
+        "value": "(31) 99342-0738"
       }
     }
   },
 
   "social": {
-    "facebook": "https://facebook.com/FHMC",
-    "instagram": "https://instagram.com/FHMCmedia",
-    "linkedin": "https://br.linkedin.com/company/FHMC"
+    "facebook": "https://facebook.com/carraramedia",
+    "instagram": "https://instagram.com/carraramedia",
+    "linkedin": "https://br.linkedin.com/company/carraramedia"
   },
 
   "form": {
     "title": "¿Hablamos?",
-    "description": "Rellena el siguiente formulario para ponerte en contacto con nosotros.",
+    "description": "Completa el formulario para ponerte en contacto con nosotros.",
     "success_message": "¡Mensaje enviado con éxito!",
-    "error_message": "¡Algo salió mal, inténtalo de nuevo!",
+    "error_message": "Algo salió mal, ¡inténtalo de nuevo!",
     "send_message": "Enviar mensaje",
-
-    "or_send_mail": "O enviar un correo electrónico:",
-    "contact_email": "contacto@FHMC.com",
-
+    "or_send_mail": "O envía un correo electrónico:",
+    "contact_email": "info@carraramedia.com.br",
     "fields": {
       "name": {
         "label": "¿Cuál es tu nombre?",
         "placeholder": "Tu nombre completo",
-        "required_message": "Ingresa tu nombre completo aquí"
+        "required_message": "Escribe tu nombre completo aquí."
       },
-
-      "correo_electrónico": {
+      "email": {
         "label": "¿Cuál es tu correo electrónico?",
-        "placeholder": "tunombre@email.com",
-        "required_message": "Ingrese un correo electrónico válido aquí"
+        "placeholder": "tucorreo@email.com",
+        "required_message": "Introduce un correo válido aquí."
       },
-
-      "mensaje": {
-        "etiqueta": "Mensaje",
+      "message": {
+        "label": "Mensaje",
         "placeholder": "Escribe aquí lo que necesitas...",
-        "required_message": "Necesitamos que nos digas lo que necesitas"
+        "required_message": "Necesitamos saber qué necesitas."
       }
     },
-
     "highlight_primary": {
       "pre": "+5 millones",
       "post": "de personas ayudadas"
     },
-
-    "highlight_secundario": {
-      "pre": "+2 millones",
-      "post": "de hits mensuales"
+    "highlight_secondary": {
+      "pre": "+15 millones",
+      "post": "de accesos mensuales"
     }
   }
 }

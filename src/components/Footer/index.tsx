@@ -46,6 +46,8 @@ function Footer() {
             <p className="m-0 text-white">
               {t('company_name')}
               <br />
+              {t('footer.cnpj')}
+              <br />
               {t('footer.copyright')}
             </p>
           </div>

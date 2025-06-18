@@ -1,9 +1,11 @@
 {
-  "company_name": "FHMC Media Holding",
+  "company_name": "Carrara Media LTDA",
+  "description": "Carrara Media LTDA",
+  "title": "Carrara Media LTDA",
 
   "seo": {
-    "title": "FHMC Media Holding",
-    "description": "Marketing com Mídia Programática. Tecnologia avançada e expertise estratégica"
+    "title": "Carrara Media LTDA",
+    "description": "Tecnologia avançada de Mídia Programática"
   },
 
   "contact_us": "Fale conosco",
@@ -11,62 +13,62 @@
   "lets_talk": "Vamos conversar",
 
   "nav": {
-    "about": "Sobre",
-    "media": "Na mídia"
+    "about": "Sobre nós"
   },
 
   "hero": {
     "title": "Mídia Programática & Estratégia de Marketing",
-    "highlight": "Maximizando conversões e alcançando audiências precisas através de nossa metodologia."
+    "highlight": "Otimizamos conversões e conectamos marcas ao público certo com precisão."
   },
 
   "about": {
-    "title": "Tecnologia avançada<br class='max-md:hidden' /> e expertise estratégica",
-    "description": "<p>Somos uma empresa focada em soluções de Mídia Programática,oferecendo resultados excepcionais.</p><p>Combinamos tecnologia avançada, dados inteligentes e expertise estratégica para maximizar o desempenho das suas campanhas de publicidade digital. Ajudamos nossos clientes a alcançar seu público-alvo de forma precisa e eficiente, otimizando seus investimentos em publicidade online.</p>",
-    "highlight_card": "de pessoas ajudadas"
+    "title": "Tecnologia inovadora<br class='max-md:hidden' /> e expertise estratégica",
+    "description": "<p>Especializados em Mídia Programática, entregamos resultados excepcionais.</p><p>Aliamos tecnologia de ponta, dados estratégicos e conhecimento especializado para potencializar a performance das suas campanhas digitais. Garantimos que sua marca alcance o público certo, maximizando o retorno sobre o investimento em publicidade online.</p>",
+    "highlight_card": "milhões de pessoas impactadas"
   },
 
   "founders": {
-    "title": "Criado por quem<br class='max-md:hidden' /> entende do assunto"
+    "title": "Fundado por especialistas<br class='max-md:hidden' /> no setor"
   },
 
   "metrics": {
-    "title": "Os números<br /><strong>falam por si só</strong>",
-    "description": "Descubra o impacto tangível de nossas estratégias com insights baseados em dados concretos e resultados mensuráveis.",
+    "title": "Nossos resultados<br /><strong>falam por si</strong>",
+    "description": "Comprovamos nosso impacto por meio de dados concretos e métricas de sucesso.",
 
     "data": [
       {
         "icon": "globe",
-        "primary": "+6 países",
+        "primary": "+40 países",
         "secondary": "alcançados" 
       },
 
       {
         "icon": "chartlineup",
-        "primary": "+2 milhões",
+        "primary": "+5 milhões",
         "secondary": "acessos mensais" 
       },
       
       {
         "icon": "usersthree",
-        "primary": "+5 milhões",
+        "primary": "+15 milhões",
         "secondary": "pessoas ajudadas" 
       }
     ]
   },
 
   "text_rotator": [
-    "Brasil",
-    "Argentina",
-    "México",
-    "EUA",
-    "Colômbia",
-    "Índia"
+    "América do Norte",
+    "Europa",
+    "América Central",
+    "América do Central",
+    "Ásia",
+    "África",
+    "Oceania"
   ],
 
   "media": {
-    "title": "FHMC Media<strong class='block'>on the road</strong>",
-    "description": "Veja o que estão falando sobre a FHMC na internet e no mundo.",
+    "title": "Carrara Media<strong class='block'>on the road</strong>",
+    "description": "Veja o que estão falando sobre a CA na internet e no mundo.",
     "articles": [
       {
         "title": "Fusce Inceptos Ornare Elit Egestas",
@@ -107,9 +109,9 @@
       "Mercado Financeiro",
       "Educação",
       "Moda e acessórios",
-      "Fitness",
-      "Alimentação",
-      "Pets"
+      "Tecnologia",
+      "Varejo",
+      "Serviços"
     ],
     "and_more": "e muito mais...",
     "highlight": {
@@ -124,23 +126,24 @@
       "description": "Nós temos expertise e estratégias para tirá-la do papel."
     },
     "copyright": "Todos os direitos reservados",
+    "cnpj": "CNPJ 61.359.299/0001-60",
     "contacts": {
       "email": {
         "label": "E-mail",
-        "value": "falecom@FHMC.com"
+        "value": "info@carraramedia.com.br"
       },
 
       "phone": {
         "label": "Telefone",
-        "value": "(99) 98798-5432"
+        "value": "(31) 99342-0738"
       }
     }
   },
 
   "social": {
-    "facebook": "https://facebook.com/FHMC",
-    "instagram": "https://instagram.com/FHMCmedia",
-    "linkedin": "https://br.linkedin.com/company/FHMC"
+    "facebook": "https://facebook.com/carraramedia",
+    "instagram": "https://instagram.com/carraramedia",
+    "linkedin": "https://br.linkedin.com/company/carraramedia"
   },
 
   "form": {
@@ -151,7 +154,7 @@
     "send_message": "Enviar mensagem",
 
     "or_send_mail": "Ou envie um e-mail:",
-    "contact_email": "falecom@FHMC.com",
+    "contact_email": "info@carraramedia.com.br",
 
     "fields": {
       "name": {
@@ -179,7 +182,7 @@
     },
 
     "highlight_secondary": {
-      "pre": "+2 milhões",
+      "pre": "+15 milhões",
       "post": "de acessos mensais"
     }
   }
