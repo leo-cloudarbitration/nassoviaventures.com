@@ -3,7 +3,7 @@ import { At, Chats, DeviceMobile } from '@phosphor-icons/react';
 import { useTranslation } from 'next-i18next';
 import { FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
-import logoWhite from '@public/assets/logo-fhmc-sem-fundo.svg';
+import logoCarrara from '@public/assets/logo_carrara.svg';
 import Image from 'next/image';
 import { useContext } from 'react';
 import { FormContext } from '@/contexts/FormContext';
@@ -38,10 +38,10 @@ function Footer() {
         <div className="flex flex-wrap">
           <div className="flex lg:flex-row flex-col lg:text-left text-center lg:mx-0 mx-auto justify-center lg:justify-normal items-center gap-8 lg:pb-0 pb-12">
             <Image
-              src={logoWhite}
+              src={logoCarrara}
               width={88}
               height={38}
-              alt="FHMC Media Holding"
+              alt="Carrara Media"
             />
             <p className="m-0 text-white">
               {t('company_name')}
