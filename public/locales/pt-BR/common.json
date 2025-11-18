@@ -1,11 +1,11 @@
 {
-  "company_name": "Carrara Media LTDA",
-  "description": "Carrara Media LTDA",
-  "title": "Carrara Media LTDA",
+  "company_name": "Nassovia Ventures Ltd",
+  "description": "Nassovia Ventures Ltd",
+  "title": "Nassovia Ventures Ltd",
 
   "seo": {
-    "title": "Carrara Media LTDA",
-    "description": "Tecnologia avançada de Mídia Programática"
+    "title": "Nassovia Ventures Ltd",
+    "description": "Tecnologia avançada de investimentos e ventures"
   },
 
   "contact_us": "Fale conosco",
@@ -17,14 +17,14 @@
   },
 
   "hero": {
-    "title": "Mídia Programática & Estratégia de Marketing",
-    "highlight": "Otimizamos conversões e conectamos marcas ao público certo com precisão."
+    "title": "Investimentos Estratégicos & Venture Capital",
+    "highlight": "Conectamos capital, pessoas e oportunidades para impulsionar negócios de alto potencial."
   },
 
   "about": {
-    "title": "Tecnologia inovadora<br class='max-md:hidden' /> e expertise estratégica",
-    "description": "<p>Especializados em Mídia Programática, entregamos resultados excepcionais.</p><p>Aliamos tecnologia de ponta, dados estratégicos e conhecimento especializado para potencializar a performance das suas campanhas digitais. Garantimos que sua marca alcance o público certo, maximizando o retorno sobre o investimento em publicidade online.</p>",
-    "highlight_card": "milhões de pessoas impactadas"
+    "title": "Capital inteligente<br class='max-md:hidden' /> e parceria de longo prazo",
+    "description": "<p>Somos uma venture firm focada em apoiar negócios em crescimento.</p><p>Aliamos capital, expertise estratégica e acesso a rede de parceiros para acelerar a evolução das empresas investidas, construindo valor sustentável no longo prazo.</p>",
+    "highlight_card": "negócios investidos e apoiados"
   },
 
   "founders": {
@@ -67,8 +67,8 @@
   ],
 
   "media": {
-    "title": "Carrara Media<strong class='block'>on the road</strong>",
-    "description": "Veja o que estão falando sobre a CA na internet e no mundo.",
+    "title": "Nassovia Ventures<strong class='block'>na mídia</strong>",
+    "description": "Veja o que estão falando sobre a Nassovia Ventures no mercado e na imprensa.",
     "articles": [
       {
         "title": "Fusce Inceptos Ornare Elit Egestas",
@@ -123,38 +123,38 @@
   "footer": {
     "conversion": {
       "title": "Tem uma nova ideia?",
-      "description": "Nós temos expertise e estratégias para tirá-la do papel."
+      "description": "Nós temos capital e expertise para levar o seu negócio ao próximo nível."
     },
+    "cnpj": "1501936",
     "copyright": "Todos os direitos reservados",
-    "cnpj": "CNPJ 61.359.299/0001-60",
     "contacts": {
       "email": {
         "label": "E-mail",
-        "value": "info@carraramedia.com.br"
+        "value": "info@nassoviaventures.com"
       },
 
       "phone": {
         "label": "Telefone",
-        "value": "(31) 99342-0738"
+        "value": "(00) 00000-0000"
       }
     }
   },
 
   "social": {
-    "facebook": "https://facebook.com/carraramedia",
-    "instagram": "https://instagram.com/carraramedia",
-    "linkedin": "https://br.linkedin.com/company/carraramedia"
+    "facebook": "https://facebook.com/nassoviaventures",
+    "instagram": "https://instagram.com/nassoviaventures",
+    "linkedin": "https://www.linkedin.com/company/nassoviaventures"
   },
 
   "form": {
     "title": "Vamos conversar?",
-    "description": "Preencha o formulário abaixo para entrar em contato com a gente.",
+    "description": "Preencha o formulário abaixo para falar com a Nassovia Ventures.",
     "success_message": "Mensagem enviada com sucesso!",
     "error_message": "Algo saiu errado, tente novamente!",
     "send_message": "Enviar mensagem",
 
     "or_send_mail": "Ou envie um e-mail:",
-    "contact_email": "info@carraramedia.com.br",
+    "contact_email": "info@nassoviaventures.com",
 
     "fields": {
       "name": {

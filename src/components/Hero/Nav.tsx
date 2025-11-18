@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import logoCarrara from '@public/assets/logo_carrara.svg';
+import logoNassovia from '@public/assets/logo_nassovia.png';
 
 import { Chats } from '@phosphor-icons/react';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
@@ -15,7 +15,7 @@ function Nav() {
   return (
     <>
       <div className="flex justify-between">
-        <Image src={logoCarrara} width={100} height={42} alt={t('seo.title')} />
+        <Image src={logoNassovia} width={100} height={42} alt={t('seo.title')} />
 
         <nav className="flex items-center">
           <div className="flex items-center gap-4">
@@ -26,14 +26,6 @@ function Nav() {
             >
               {t('nav.about')}
             </button>
-            <button
-              type="button"
-              className="sm:flex hidden text-secondary-200 font-medium text-sm py-2 px-3 hover:bg-white/10 transition-all rounded-[3px]"
-              onClick={() => scrollToView('#media')}
-            >
-              {t('nav.media')}
-            </button>
-            <span className="sm:flex hidden w-[5px] h-[5px] bg-secondary-200 rounded-full" />
             <button
               onClick={toggleForm}
               className="text-secondary-200 font-medium text-sm flex gap-3 items-center justify-center py-2 px-3 hover:bg-white/10 transition-all rounded-[3px]"

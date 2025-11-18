@@ -18,11 +18,11 @@ function EmailTemplate({ name, email, message }: IEmail) {
   return (
     <Html>
       <Head />
-      <Preview>Contact from FHMC website</Preview>
+      <Preview>Contact from Nassovia Ventures website</Preview>
       <Body style={main}>
         <Container style={container}>
           <Section>
-            <Text style={preview}>Mail sent from FHMC website</Text>
+            <Text style={preview}>Mail sent from Nassovia Ventures website</Text>
             <Text style={text}>
               <strong>Name:</strong>
               <br />

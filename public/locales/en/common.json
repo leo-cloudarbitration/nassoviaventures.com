@@ -1,11 +1,11 @@
 {
-  "company_name": "Carrara Media LTDA",
-  "description": "Carrara Media LTDA",
-  "title": "Carrara Media LTDA",
+  "company_name": "Nassovia Ventures Ltd",
+  "description": "Nassovia Ventures Ltd",
+  "title": "Nassovia Ventures Ltd",
 
   "seo": {
-    "title": "Carrara Media LTDA",
-    "description": "Advanced Programmatic Media Technology"
+    "title": "Nassovia Ventures Ltd",
+    "description": "Strategic investments and venture capital"
   },
 
   "contact_us": "Contact us",
@@ -17,14 +17,14 @@
   },
 
   "hero": {
-    "title": "Programmatic Media & Marketing Strategy",
-    "highlight": "We optimize conversions and connect brands with the right audience precisely."
+    "title": "Strategic Investments & Venture Capital",
+    "highlight": "We connect capital, people, and opportunities to grow high-potential businesses."
   },
 
   "about": {
-    "title": "Innovative Technology<br class='max-md:hidden' /> and Strategic Expertise",
-    "description": "<p>Specialized in Programmatic Media, we deliver exceptional results.</p><p>We combine cutting-edge technology, strategic data, and specialized knowledge to enhance the performance of your digital campaigns. We ensure your brand reaches the right audience, maximizing the return on investment in online advertising.</p>",
-    "highlight_card": "millions of people impacted"
+    "title": "Smart Capital<br class='max-md:hidden' /> and Long-Term Partnership",
+    "description": "<p>We are a venture firm focused on supporting growing businesses.</p><p>We combine capital, strategic expertise, and access to a network of partners to accelerate the evolution of our portfolio companies, building sustainable long-term value.</p>",
+    "highlight_card": "portfolio companies supported"
   },
 
   "founders": {
@@ -65,8 +65,8 @@
   ],
 
   "media": {
-    "title": "Carrara Media<strong class='block'> in the World</strong>",
-    "description": "Discover what is being said about CA online and worldwide.",
+    "title": "Nassovia Ventures<strong class='block'> in the News</strong>",
+    "description": "Discover what is being said about Nassovia Ventures across the market and the media.",
     "articles": [
       {
         "title": "Programmatic Media Trends",
@@ -97,35 +97,36 @@
   "footer": {
     "conversion": {
       "title": "Have a new idea?",
-      "description": "We have the expertise and strategies to bring it to life."
+      "description": "We have capital and expertise to help your business reach the next level."
     },
+    "cnpj": "1501936",
     "copyright": "All rights reserved",
     "contacts": {
       "email": {
         "label": "Email",
-        "value": "info@cloudarbitration.com"
+        "value": "info@nassoviaventures.com"
       },
       "phone": {
         "label": "Phone",
-        "value": "(31) 99342-0738"
+        "value": "(00) 00000-0000"
       }
     }
   },
 
   "social": {
-    "facebook": "https://facebook.com/carraramedia",
-    "instagram": "https://instagram.com/carraramedia",
-    "linkedin": "https://br.linkedin.com/company/carraramedia"
+    "facebook": "https://facebook.com/nassoviaventures",
+    "instagram": "https://instagram.com/nassoviaventures",
+    "linkedin": "https://www.linkedin.com/company/nassoviaventures"
   },
 
   "form": {
     "title": "Shall we talk?",
-    "description": "Fill out the form to get in touch with us.",
+    "description": "Fill out the form to get in touch with Nassovia Ventures.",
     "success_message": "Message sent successfully!",
     "error_message": "Something went wrong, please try again!",
     "send_message": "Send message",
     "or_send_mail": "Or send an email:",
-    "contact_email": "info@carraramedia.com.br",
+    "contact_email": "info@nassoviaventures.com",
     "fields": {
       "name": {
         "label": "What is your name?",

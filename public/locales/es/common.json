@@ -1,11 +1,11 @@
 {
-  "company_name": "Carrara Media LTDA",
-  "description": "Carrara Media LTDA",
-  "title": "Carrara Media LTDA",
+  "company_name": "Nassovia Ventures Ltd",
+  "description": "Nassovia Ventures Ltd",
+  "title": "Nassovia Ventures Ltd",
 
   "seo": {
-    "title": "Carrara Media LTDA",
-    "description": "Tecnología avanzada de Medios Programáticos"
+    "title": "Nassovia Ventures Ltd",
+    "description": "Inversiones estratégicas y venture capital"
   },
 
   "contact_us": "Contáctanos",
@@ -17,14 +17,14 @@
   },
 
   "hero": {
-    "title": "Medios Programáticos & Estrategia de Marketing",
-    "highlight": "Optimizamos conversiones y conectamos marcas con el público adecuado con precisión."
+    "title": "Inversiones Estratégicas & Venture Capital",
+    "highlight": "Conectamos capital, personas y oportunidades para impulsar negocios de alto potencial."
   },
 
   "about": {
-    "title": "Tecnología innovadora<br class='max-md:hidden' /> y experiencia estratégica",
-    "description": "<p>Especializados en Medios Programáticos, entregamos resultados excepcionales.</p><p>Combinamos tecnología de vanguardia, datos estratégicos y conocimiento especializado para potenciar el rendimiento de tus campañas digitales. Garantizamos que tu marca alcance al público adecuado, maximizando el retorno de la inversión en publicidad online.</p>",
-    "highlight_card": "millones de personas impactadas"
+    "title": "Capital inteligente<br class='max-md:hidden' /> y alianzas a largo plazo",
+    "description": "<p>Somos una firma de venture capital enfocada en apoyar negocios en crecimiento.</p><p>Combinamos capital, experiencia estratégica y acceso a una red de socios para acelerar la evolución de las empresas del portafolio, construyendo valor sostenible a largo plazo.</p>",
+    "highlight_card": "empresas del portafolio apoyadas"
   },
 
   "founders": {
@@ -65,8 +65,8 @@
   ],
 
   "media": {
-    "title": "Carrara Media<strong class='block'> en el mundo</strong>",
-    "description": "Descubre lo que dicen sobre CA en internet y el mundo.",
+    "title": "Nassovia Ventures<strong class='block'> en los medios</strong>",
+    "description": "Descubre lo que dicen sobre Nassovia Ventures en el mercado y en la prensa.",
     "articles": [
       {
         "title": "Tendencias en Medios Programáticos",
@@ -97,35 +97,36 @@
   "footer": {
     "conversion": {
       "title": "¿Tienes una nueva idea?",
-      "description": "Tenemos la experiencia y las estrategias para hacerla realidad."
+      "description": "Tenemos capital y experiencia para llevar tu negocio al siguiente nivel."
     },
+    "cnpj": "1501936",
     "copyright": "Todos los derechos reservados",
     "contacts": {
       "email": {
         "label": "E-mail",
-        "value": "info@carraramedia.com.br"
+        "value": "info@nassoviaventures.com"
       },
       "phone": {
         "label": "Teléfono",
-        "value": "(31) 99342-0738"
+        "value": "(00) 00000-0000"
       }
     }
   },
 
   "social": {
-    "facebook": "https://facebook.com/carraramedia",
-    "instagram": "https://instagram.com/carraramedia",
-    "linkedin": "https://br.linkedin.com/company/carraramedia"
+    "facebook": "https://facebook.com/nassoviaventures",
+    "instagram": "https://instagram.com/nassoviaventures",
+    "linkedin": "https://www.linkedin.com/company/nassoviaventures"
   },
 
   "form": {
     "title": "¿Hablamos?",
-    "description": "Completa el formulario para ponerte en contacto con nosotros.",
+    "description": "Completa el formulario para ponerte en contacto con Nassovia Ventures.",
     "success_message": "¡Mensaje enviado con éxito!",
     "error_message": "Algo salió mal, ¡inténtalo de nuevo!",
     "send_message": "Enviar mensaje",
     "or_send_mail": "O envía un correo electrónico:",
-    "contact_email": "info@carraramedia.com.br",
+    "contact_email": "info@nassoviaventures.com",
     "fields": {
       "name": {
         "label": "¿Cuál es tu nombre?",

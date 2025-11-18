@@ -1,8 +1,6 @@
-![Cover](https://github.com/itbruno/site-FHMC/assets/3206543/8c747ea5-45ef-4eba-9408-6fe8941593c2)
+## Nassovia Ventures Ltd Website
 
-## FHMC Media Holding
-
-FHMC website was created with NextJS
+Site institucional da Nassovia Ventures Ltd, construído com Next.js.
 
 ## Requirements
 
